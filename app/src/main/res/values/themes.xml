@@ -1,0 +1,75 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.YaeMiko" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/yae_miko_theme_light_primary</item>
+        <item name="colorOnPrimary">@color/yae_miko_theme_light_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/yae_miko_theme_light_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/yae_miko_theme_light_onPrimaryContainer</item>
+        <item name="colorSecondary">@color/yae_miko_theme_light_secondary</item>
+        <item name="colorOnSecondary">@color/yae_miko_theme_light_onSecondary</item>
+        <item name="colorSecondaryContainer">@color/yae_miko_theme_light_secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/yae_miko_theme_light_onSecondaryContainer
+        </item>
+        <item name="colorTertiary">@color/yae_miko_theme_light_tertiary</item>
+        <item name="colorOnTertiary">@color/yae_miko_theme_light_onTertiary</item>
+        <item name="colorTertiaryContainer">@color/yae_miko_theme_light_tertiaryContainer</item>
+        <item name="colorOnTertiaryContainer">@color/yae_miko_theme_light_onTertiaryContainer</item>
+        <item name="colorError">@color/yae_miko_theme_light_error</item>
+        <item name="colorErrorContainer">@color/yae_miko_theme_light_errorContainer</item>
+        <item name="colorOnError">@color/yae_miko_theme_light_onError</item>
+        <item name="colorOnErrorContainer">@color/yae_miko_theme_light_onErrorContainer</item>
+        <item name="android:colorBackground">@color/yae_miko_theme_light_background</item>
+        <item name="colorOnBackground">@color/yae_miko_theme_light_onBackground</item>
+        <item name="colorSurface">@color/yae_miko_theme_light_surface</item>
+        <item name="colorOnSurface">@color/yae_miko_theme_light_onSurface</item>
+        <item name="colorSurfaceVariant">@color/yae_miko_theme_light_surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/yae_miko_theme_light_onSurfaceVariant</item>
+        <item name="colorOutline">@color/yae_miko_theme_light_outline</item>
+        <item name="colorOnSurfaceInverse">@color/yae_miko_theme_light_inverseOnSurface</item>
+        <item name="colorSurfaceInverse">@color/yae_miko_theme_light_inverseSurface</item>
+        <item name="colorInversePrimary">@color/yae_miko_theme_light_inversePrimary</item>
+        <item name="colorShadow">@color/yae_miko_theme_light_shadow</item>
+        <item name="colorPrimaryInverse">@color/yae_miko_theme_light_primaryInverse</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@android:color/transparent</item>
+        <!-- Customize your theme here. -->
+        <item name="elevationOverlayEnabled">true</item>
+        <item name="elevationOverlayColor">@color/yae_miko_theme_light_primary</item>
+    </style>
+
+    <style name="Theme.Eula" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/eula_theme_light_primary</item>
+        <item name="colorOnPrimary">@color/eula_theme_light_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/eula_theme_light_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/eula_theme_light_onPrimaryContainer</item>
+        <item name="colorSecondary">@color/eula_theme_light_secondary</item>
+        <item name="colorOnSecondary">@color/eula_theme_light_onSecondary</item>
+        <item name="colorSecondaryContainer">@color/eula_theme_light_secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/eula_theme_light_onSecondaryContainer</item>
+        <item name="colorTertiary">@color/eula_theme_light_tertiary</item>
+        <item name="colorOnTertiary">@color/eula_theme_light_onTertiary</item>
+        <item name="colorTertiaryContainer">@color/eula_theme_light_tertiaryContainer</item>
+        <item name="colorOnTertiaryContainer">@color/eula_theme_light_onTertiaryContainer</item>
+        <item name="colorError">@color/eula_theme_light_error</item>
+        <item name="colorErrorContainer">@color/eula_theme_light_errorContainer</item>
+        <item name="colorOnError">@color/eula_theme_light_onError</item>
+        <item name="colorOnErrorContainer">@color/eula_theme_light_onErrorContainer</item>
+        <item name="android:colorBackground">@color/eula_theme_light_background</item>
+        <item name="colorOnBackground">@color/eula_theme_light_onBackground</item>
+        <item name="colorSurface">@color/eula_theme_light_surface</item>
+        <item name="colorOnSurface">@color/eula_theme_light_onSurface</item>
+        <item name="colorSurfaceVariant">@color/eula_theme_light_surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/eula_theme_light_onSurfaceVariant</item>
+        <item name="colorOutline">@color/eula_theme_light_outline</item>
+        <item name="colorOnSurfaceInverse">@color/eula_theme_light_inverseOnSurface</item>
+        <item name="colorSurfaceInverse">@color/eula_theme_light_inverseSurface</item>
+        <item name="colorInversePrimary">@color/eula_theme_light_inversePrimary</item>
+        <item name="colorShadow">@color/eula_theme_light_shadow</item>
+        <item name="colorPrimaryInverse">@color/eula_theme_light_primaryInverse</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@android:color/transparent</item>
+        <!-- Customize your theme here. -->
+        <item name="elevationOverlayEnabled">true</item>
+        <item name="elevationOverlayColor">@color/eula_theme_light_primary</item>
+    </style>
+</resources>
